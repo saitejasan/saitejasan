@@ -1,11 +1,21 @@
 ### Hi there! 👋
 
-Welcome to my GitHub profile! I'm passionate about data science, machine learning, and generative AI, and I’m constantly expanding my skills and working on exciting projects.
+Welcome to my GitHub profile! I'm passionate about data science, machine learning, and generative AI, and I’m constantly expanding my skills and working on exciting projects. 
 
 ### 🧑‍💻 About Me
 - 🔍 Exploring the world of *data science*, learning to derive insights from data and make data-driven decisions.
 - 🤖 Diving into *machine learning* and building predictive models to solve real-world problems.
 - 🎨 Experimenting with *generative AI*, fascinated by creative applications in AI, such as text generation, image synthesis, and more!
+
+### 🌐 Certifications
+- **AWS Certified Solutions Architect – Associate**  
+  [View Certification](<https://www.credly.com/badges/9705a77b-15fb-4d56-982a-71f08ed951e5/linked_in_profile>)
+- **AWS Certified Cloud Practitioner – Associate**  
+  [View Certification](<https://www.credly.com/badges/9e41f4ba-887a-4afb-a734-729f6e3cc2d2/linked_in_profile>)
+- **Microsoft Azure Fundamentals – AZ-900**  
+  [View Certification](<https://www.credly.com/badges/f94a59f4-1724-40ad-9eca-9a39becc1f90?source=linked_in_profile>)
+- **Microsoft Azure Data Fundamentals - DP-900**  
+  [View Certification](<https://www.credly.com/badges/7010608a-7d0c-425f-afcd-17ead74b03c5?source=linked_in_profile>)
 
 ### 🌱 Currently Learning
 - Data manipulation and visualization
@@ -15,7 +25,6 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 
 ### 🚀 Projects and Goals
 I’m working on projects that build my foundational knowledge and explore advanced AI topics. Feel free to check out my repositories to see what I’m working on!
-
 
 ### 💡 Technical Skills
 ### 💻 Programming Languages
@@ -88,7 +97,6 @@ I’m working on projects that build my foundational knowledge and explore advan
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/QuickSight-FF9900?logo=amazon-aws&logoColor=black" alt="QuickSight">
 </p>
-
 
 ### 💻 Operating Systems
 <p>
